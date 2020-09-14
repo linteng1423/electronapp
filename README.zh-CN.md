@@ -34,7 +34,7 @@ npm install
 npm run dev
 ```
 
-浏览器访问 http://localhost:8085
+浏览器访问 http://localhost:3050
 
 ## 发布
 
@@ -43,7 +43,16 @@ npm run dev
 npm run build:stage
 
 # 构建生产环境
-npm run build:prod
+npm run build
+```
+## electron发布
+
+```bash
+# 构建测试预览
+npm run start
+
+# 打包压缩
+npm run pack
 ```
 
 ```bash

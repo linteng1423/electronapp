@@ -1,10 +1,10 @@
 English | [简体中文](./README.zh-CN.md)
 
-# court-backround
+# electronapp
 
 ```bash
 # clone the project
-git clone -b dev http://193.112.125.92:8090/base/base-backend.git
+git clone xxx
 
 # enter the project directory
 cd x
