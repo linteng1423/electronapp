@@ -23,6 +23,13 @@ npm run build:prod
 npm run build:stage
 ```
 ```bash
+# electron build for preview
+npm run start
+
+# electron Pack and compress
+npm run pack
+```
+```bash
 ### Lints and fixes files
 npm run lint
 ```
